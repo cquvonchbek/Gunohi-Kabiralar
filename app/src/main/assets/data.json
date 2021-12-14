@@ -1,0 +1,558 @@
+{
+    "lotin":[
+        {
+            "id": "",
+            "title": "Imom Zahabiy va uning «Kaboir» nomli asari haqida"
+        },
+        {
+            "id": "1",
+            "title":  "KATTA SHIRK"
+        },
+        {
+            "id": "2",
+            "title": "RIYO"
+        },
+        {
+            "id": "3",
+            "title": "KIBR, MANMANLIK, G'URUR"
+        },
+        {
+            "id": "4",
+            "title": "ZO‘RAVONLIK, HADDAN OSHISH"
+        },
+        {
+            "id": "5",
+            "title": "Makr va aldov"
+        },
+        {
+            "id": "6",
+            "title": "ALLOHNING MAKR-SINOVIDAN XOTIRJAM BO‘LISH"
+        },
+        {
+            "id": "7",
+            "title": "ALLOHNING RAHMATIDAN NOUMID BO‘LISH"
+        },
+        {
+            "id": "8",
+            "title": "DUNYO UCHUN ILM O‘RGANISH VA ILMNI YASHIRISH"
+        },
+        {
+            "id": "9",
+            "title": "ALLOH AZZA VA JALLA HAMDA RASULULLOH SOLLALLOHU ALAYHI VASALLA"
+        },
+        {
+            "id": "10",
+            "title": "TAQDIRNI RAD ETISH"
+        },
+        {
+            "id": "11",
+            "title": "XIYONAT VA AHDGA VAFO QILMASLIK"
+        },
+        {
+            "id": "12",
+            "title": "TORTISHUV, BAHS-MUNOZARA VA MUROSASIZLIK"
+        },
+        {
+            "id": "13",
+            "title": "SIYDIKDAN POKLANMASLIK"
+        },
+        {
+            "id": "14",
+            "title": "NAMOZNI QASDDAN TARK ETISH"
+        },
+        {
+            "id": "15",
+            "title": "UZRSIZ JAMOAT NAMOZINI TARK ETISH"
+        },
+        {
+            "id": "16",
+            "title": "JUMA NAMOZINI TARK ETISHGA ODATLANISH"
+        },
+        {
+            "id": "17",
+            "title": "ERKAKLARNING TILLA TAQISHLARI VA IPAK KIYISHLARI"
+        },
+        {
+            "id": "18",
+            "title": "AYOLLARNING ERKAKLARGA, ERKAKLARNING AYOLLARGA O‘XSHASHLARI"
+        },
+        {
+            "id": "19",
+            "title": "KIBR VA MANMANLIK BILAN KIYIMLARINI SUDRAB YURISH"
+        },
+        {
+            "id": "20",
+            "title": "MUSIBAT CHOG'IDA HADDIDAN OSHISH"
+        },
+        {
+            "id": "21",
+            "title": "ZAKOT BERMASLIK"
+        },
+        {
+            "id": "22",
+            "title": "BERGAN NARSANI MINNAT QILISH"
+        },
+        {
+            "id": "23",
+            "title": "EHTIYOJDAN ORTIQCHA SUVNI QIZG’ANISH"
+        },
+        {
+            "id": "24",
+            "title": "RAMAZONDA UZRSIZ RO‘ZA TUTMASLIK"
+        },
+        {
+            "id": "25",
+            "title": "QODIR BO‘LATURIB HAJ QILMASLIK"
+        },
+        {
+            "id": "26",
+            "title": "ALLOHDAN BOSHQAGA ATAB JONLIQ SO‘YISH"
+        },
+        {
+            "id": "27",
+            "title": "SUDXO‘RLIK"
+        },
+        {
+            "id": "28",
+            "title": "HAROM YEYISH VA HAROMDAN TOPISH"
+        },
+        {
+            "id": "29",
+            "title": "TAROZI, O‘LCHOV VA SHU KABI NARSALARDAN URIB QOLISH"
+        },
+        {
+            "id": "30",
+            "title": "YETIM MOLINI YEYISH VA UNGA ZULM QILISH"
+        },
+        {
+            "id": "31",
+            "title": "QO‘SHNIGA OZOR BERISH"
+        },
+        {
+            "id": "32",
+            "title": "MUSULMONLARGA OZOR BERISH VA HAQORAT QILISH"
+        },
+        {
+            "id": "33",
+            "title": "ALLOHNING DO‘STLARI – AVLIYOLARGA OZOR BERISH"
+        },
+        {
+            "id": "34",
+            "title": "ZARARLI VASIYAT QILISH"
+        },
+        {
+            "id": "35",
+            "title": "OMONATGA XIYONAT QILISH"
+        },
+        {
+            "id": "36",
+            "title": "CHAQIMCHILIK"
+        },
+        {
+            "id": "37",
+            "title": "TAHLIL QILISH"
+        },
+        {
+            "id": "38",
+            "title": "XOTINNING ERIGA ITOATSIZLIK QILISHI"
+        },
+        {
+            "id": "39",
+            "title": "DAYUSLIK VA QO‘SHMACHILIK"
+        },
+        {
+            "id": "40",
+            "title": "POKIZA AYOLLARGA TUHMAT QILISH"
+        },
+        {
+            "id": "41",
+            "title": "LA’NAT AYTISH"
+        },
+        {
+            "id": "42",
+            "title": "INSONNING O‘Z NASABIDAN TONISHI"
+        },
+        {
+            "id": "43",
+            "title": "OTA-ONAGA OQ BO‘LISH"
+        },
+        {
+            "id": "44",
+            "title": "QARINDOSHLAR BILAN ALOQANI UZISH"
+        },
+        {
+            "id": "45",
+            "title": "QULNING QOCHISHI"
+        },
+        {
+            "id": "46",
+            "title": "ZAIFLAR VA QO‘L OSTIDAGILAR – XOTIN, QUL, JONIVORLAR HAQINI POYMOL"
+        },
+        {
+            "id": "47",
+            "title": "ODAM O‘LDIRISH"
+        },
+        {
+            "id": "48",
+            "title": "O‘Z JONIGA QASD QILISH"
+        },
+        {
+            "id": "49",
+            "title": "SEHR"
+        },
+        {
+            "id": "50",
+            "title": "FOLBIN VA MUNAJJIMNI TASDIQLASH"
+        },
+        {
+            "id": "51",
+            "title": "BOSHLIQNING QO‘L OSTIDAGILARNI ALDASHI VA ULARGA ZULM QILISHI"
+        },
+        {
+            "id": "52",
+            "title": "ZULM"
+        },
+        {
+            "id": "53",
+            "title": "ZINO"
+        },
+        {
+            "id": "54",
+            "title": "BACHCHAVOZLIK"
+        },
+        {
+            "id": "55",
+            "title": "O‘G’IRLIK"
+        },
+        {
+            "id": "56",
+            "title": "YO‘LTO‘SARLIK"
+        },
+        {
+            "id": "57",
+            "title": "XAMR (MAST QILUVCHI ICHIMLIK) ICHISH"
+        },
+        {
+            "id": "58",
+            "title": "ODAMLARNING SIRLARIGA QULOQ TUTISH – JOSUSLIK"
+        },
+        {
+            "id": "59",
+            "title": "DUSHMAN HUJUMIDAN QOCHISH"
+        },
+        {
+            "id": "60",
+            "title": "O‘LJAGA XIYONAT QILISH"
+        },
+        {
+            "id": "61",
+            "title": "MUSULMONLARNING NOZIK JIHATLARINI OCHISH"
+        },
+        {
+            "id": "62",
+            "title": "YOLG’ON QASAM ICHISH"
+        },
+        {
+            "id": "63",
+            "title": "NOHAQ HUKM QILISH"
+        },
+        {
+            "id": "64",
+            "title": "PORAXO‘RLIK"
+        },
+        {
+            "id": "65",
+            "title": "YOLG’ON GUVOHLIK BERISH"
+        },
+        {
+            "id": "66",
+            "title": "YOLG’ON GAPIRISH"
+        },
+        {
+            "id": "67",
+            "title": "QIMOR O‘YNASH"
+        },
+        {
+            "id": "68",
+            "title": "SAHOBALARDAN BIRONTASINI HAQORAT QILISH"
+        }
+    ],
+    "kirill": [
+        {
+            "id": "0",
+            "title": "Имом Заҳабий ва унинг «Кабоир» номли асари ҳақида"
+        },
+        {
+            "id": "1",
+            "title": "КАТТА ШИРК"
+        },
+        {
+            "id": "2",
+            "title": "РИЁ"
+        },
+        {
+            "id": "3",
+            "title": "КИБР, МАНМАНЛИК, ҒУРУР"
+        },
+        {
+            "id": "4",
+            "title": "ЗЎРАВОНЛИК, ҲАДДАН ОШИШ"
+        },
+        {
+            "id": "5",
+            "title": "МАКР ВА АЛДОВ"
+        },
+        {
+            "id": "6",
+            "title": "АЛЛОҲНИНГ МАКР-СИНОВИДАН ХОТИРЖАМ БЎЛИШ"
+        },
+        {
+            "id": "7",
+            "title": "АЛЛОҲНИНГ РАҲМАТИДАН НОУМИД БЎЛИШ"
+        },
+        {
+            "id": "8",
+            "title": "ДУНЁ УЧУН ИЛМ ЎРГАНИШ ВА ИЛМНИ ЯШИРИШ"
+        },
+        {
+            "id": "9",
+            "title": "АЛЛОҲ АЗЗА ВА ЖАЛЛА ҲАМДА РАСУЛУЛЛОҲ СОЛЛАЛЛОҲУ АЛАЙҲИ ВАСАЛЛАМ&nbsp;"
+        },
+        {
+            "id": "10",
+            "title": "ТАҚДИРНИ РАД ЭТИШ"
+        },
+        {
+            "id": "11",
+            "title": "ХИЁНАТ ВА АҲДГА ВАФО ҚИЛМАСЛИК"
+        },
+        {
+            "id": "12",
+            "title": "ТОРТИШУВ, БАҲС-МУНОЗАРА ВА МУРОСАСИЗЛИК"
+        },
+        {
+            "id": "13",
+            "title": "СИЙДИКДАН ПОКЛАНМАСЛИК"
+        },
+        {
+            "id": "14",
+            "title": "НАМОЗНИ ҚАСДДАН ТАРК ЭТИШ"
+        },
+        {
+            "id": "15",
+            "title": "УЗРСИЗ ЖАМОАТ НАМОЗИНИ ТАРК ЭТИШ"
+        },
+        {
+            "id": "16",
+            "title": "ЖУМА НАМОЗИНИ ТАРК ЭТИШГА ОДАТЛАНИШ"
+        },
+        {
+            "id": "17",
+            "title": "ЭРКАКЛАРНИНГ ТИЛЛА ТАҚИШЛАРИ ВА ИПАК КИЙИШЛАРИ"
+        },
+        {
+            "id": "18",
+            "title": "АЁЛЛАРНИНГ ЭРКАКЛАРГА, ЭРКАКЛАРНИНГ АЁЛЛАРГА ЎХШАШЛАРИ"
+        },
+        {
+            "id": "19",
+            "title": "КИБР ВА МАНМАНЛИК БИЛАН КИЙИМЛАРИНИ СУДРАБ ЮРИШ"
+        },
+        {
+            "id": "20",
+            "title": "МУСИБАТ ЧОГ'ИДА ҲАДДИДАН ОШИШ"
+        },
+        {
+            "id": "21",
+            "title": "ЗАКОТ БЕРМАСЛИК"
+        },
+        {
+            "id": "22",
+            "title": "БЕРГАН НАРСАНИ МИННАТ ҚИЛИШ"
+        },
+        {
+            "id": "23",
+            "title": "ЭҲТИЁЖДАН ОРТИҚЧА СУВНИ ҚИЗҒАНИШ"
+        },
+        {
+            "id": "24",
+            "title": "РАМАЗОНДА УЗРСИЗ РЎЗА ТУТМАСЛИК"
+        },
+        {
+            "id": "25",
+            "title": "ҚОДИР БЎЛАТУРИБ ҲАЖ ҚИЛМАСЛИК"
+        },
+        {
+            "id": "26",
+            "title": "АЛЛОҲДАН БОШҚАГА АТАБ ЖОНЛИҚ СЎЙИШ"
+        },
+        {
+            "id": "27",
+            "title": "СУДХЎРЛИК"
+        },
+        {
+            "id": "28",
+            "title": "ҲАРОМ ЕЙИШ ВА ҲАРОМДАН ТОПИШ"
+        },
+        {
+            "id": "29",
+            "title": "ТАРОЗИ, ЎЛЧОВ ВА ШУ КАБИ НАРСАЛАРДАН УРИБ ҚОЛИШ"
+        },
+        {
+            "id": "30",
+            "title": "ЕТИМ МОЛИНИ ЕЙИШ ВА УНГА ЗУЛМ ҚИЛИШ"
+        },
+        {
+            "id": "31",
+            "title": "ҚЎШНИГА ОЗОР БЕРИШ"
+        },
+        {
+            "id": "32",
+            "title": "МУСУЛМОНЛАРГА ОЗОР БЕРИШ ВА ҲАҚОРАТ ҚИЛИШ"
+        },
+        {
+            "id": "33",
+            "title": "АЛЛОҲНИНГ ДЎСТЛАРИ – АВЛИЁЛАРГА ОЗОР БЕРИШ"
+        },
+        {
+            "id": "34",
+            "title": "ЗАРАРЛИ ВАСИЯТ ҚИЛИШ"
+        },
+        {
+            "id": "35",
+            "title": "ОМОНАТГА ХИЁНАТ ҚИЛИШ"
+        },
+        {
+            "id": "36",
+            "title": "ЧАҚИМЧИЛИК"
+        },
+        {
+            "id": "37",
+            "title": "ТАҲЛИЛ ҚИЛИШ"
+        },
+        {
+            "id": "38",
+            "title": "ХОТИННИНГ ЭРИГА ИТОАТСИЗЛИК ҚИЛИШИ"
+        },
+        {
+            "id": "39",
+            "title": "ДАЮСЛИК ВА ҚЎШМАЧИЛИК"
+        },
+        {
+            "id": "40",
+            "title": "ПОКИЗА АЁЛЛАРГА ТУҲМАТ ҚИЛИШ"
+        },
+        {
+            "id": "41",
+            "title": "ЛАЪНАТ АЙТИШ"
+        },
+        {
+            "id": "42",
+            "title": "ИНСОННИНГ ЎЗ НАСАБИДАН ТОНИШИ"
+        },
+        {
+            "id": "43",
+            "title": "ОТА-ОНАГА ОҚ БЎЛИШ"
+        },
+        {
+            "id": "44",
+            "title": "ҚАРИНДОШЛАР БИЛАН АЛОҚАНИ УЗИШ"
+        },
+        {
+            "id": "45",
+            "title": "ҚУЛНИНГ ҚОЧИШИ"
+        },
+        {
+            "id": "46",
+            "title": "ЗАИФЛАР ВА ҚЎЛ ОСТИДАГИЛАР – ХОТИН, ҚУЛ, ЖОНИВОРЛАР ҲАҚИНИ ПОЙМОЛ"
+        },
+        {
+            "id": "47",
+            "title": "ОДАМ ЎЛДИРИШ"
+        },
+        {
+            "id": "48",
+            "title": "ЎЗ ЖОНИГА ҚАСД ҚИЛИШ"
+        },
+        {
+            "id": "49",
+            "title": "СЕҲР"
+        },
+        {
+            "id": "50",
+            "title": "ФОЛБИН ВА МУНАЖЖИМНИ ТАСДИҚЛАШФОЛБИН ВА МУНАЖЖИМНИ ТАСДИҚЛАШ"
+        },
+        {
+            "id": "51",
+            "title": "БОШЛИҚНИНГ ҚЎЛ ОСТИДАГИЛАРНИ АЛДАШИ ВА УЛАРГА ЗУЛМ ҚИЛИШИ"
+        },
+        {
+            "id": "52",
+            "title": "ЗУЛМ"
+        },
+        {
+            "id": "53",
+            "title": "ЗИНО"
+        },
+        {
+            "id": "54",
+            "title": "БАЧЧАВОЗЛИК"
+        },
+        {
+            "id": "55",
+            "title": "ЎҒИРЛИК"
+        },
+        {
+            "id": "56",
+            "title": "ЙЎЛТЎСАРЛИК"
+        },
+        {
+            "id": "57",
+            "title": "ХАМР (МАСТ ҚИЛУВЧИ ИЧИМЛИК) ИЧИШ"
+        },
+        {
+            "id": "58",
+            "title": "ОДАМЛАРНИНГ СИРЛАРИГА ҚУЛОҚ ТУТИШ – ЖОСУСЛИК"
+        },
+        {
+            "id": "59",
+            "title": "ДУШМАН ҲУЖУМИДАН ҚОЧИШ"
+        },
+        {
+            "id": "60",
+            "title": "ЎЛЖАГА ХИЁНАТ ҚИЛИШ"
+        },
+        {
+            "id": "61",
+            "title": "МУСУЛМОНЛАРНИНГ НОЗИК ЖИҲАТЛАРИНИ ОЧИШ"
+        },
+        {
+            "id": "62",
+            "title": "ЁЛҒОН ҚАСАМ ИЧИШ"
+        },
+        {
+            "id": "63",
+            "title": "НОҲАҚ ҲУКМ ҚИЛИШ"
+        },
+        {
+            "id": "64",
+            "title": "ПОРАХЎРЛИК"
+        },
+        {
+            "id": "65",
+            "title": "ЁЛҒОН ГУВОҲЛИК БЕРИШ"
+        },
+        {
+            "id": "66",
+            "title": "ЁЛҒОН ГАПИРИШ"
+        },
+        {
+            "id": "67",
+            "title": "ҚИМОР ЎЙНАШ"
+        },
+        {
+            "id": "68",
+            "title": "САҲОБАЛАРДАН БИРОНТАСИНИ ҲАҚОРАТ ҚИЛИШ"
+        }
+    ]
+}
