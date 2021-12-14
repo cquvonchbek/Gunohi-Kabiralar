@@ -1,2 +1,2 @@
 # Gunohi-Kabriralar
-#Imom Zahabiyning "Gunohi kabiralar" (Kaboir) kitobining elektron versiyasi!
+Imom Zahabiyning "Gunohi kabiralar" (Kaboir) kitobining elektron versiyasi!
